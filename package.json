@@ -1,0 +1,17 @@
+{
+  "name": "galaxy-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.4.19"
+  }
+}
