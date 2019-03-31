@@ -16,12 +16,12 @@ How does Kookoo work??
 
 What this application will do??
 This is an application created  using KooKoo.in and Node.js to create the following flow for incoming calls :
-1. When the user calls the number, ask them if they are male(1) or female(2)
-2. If the user chooses male, then ask them if they are above 21(1), or below(2). For
-females ask them if they are above 18(1) or below(2)
-3.If the user chooses 1 above, play the message - "You are an adult", else play the
+  1. When the user calls the number, ask them if they are male(1) or female(2)
+  2. If the user chooses male, then ask them if they are above 21(1), or below(2). For
+females ask them if they are above 18(1) or below(2).
+  3.If the user chooses 1 above, play the message - "You are an adult", else play the
 message "Minors are not allowed".
-4.When user press any other options apart from this, play the message-"Sorry wrong option pressed;Phone is going to Disconnect Now!"
+  4.When user press any other options apart from this, play the message-"Sorry wrong option pressed;Phone is going to Disconnect Now!"
 5.End the call
 
  
