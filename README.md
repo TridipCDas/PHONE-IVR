@@ -32,7 +32,7 @@ females ask them if they are above 18(1) or below(2).
 3.If the user chooses 1 above, play the message - "You are an adult", else play the
 message "Minors are not allowed".
 
-4.When user press any other options apart from this, play the message-"Sorry wrong option pressed;Phone is going to Disconnect Now!"
+4.When user press any other button apart from this, play the message-"Sorry wrong option pressed;Phone is going to Disconnect Now!"
 
 5.End the call
 
